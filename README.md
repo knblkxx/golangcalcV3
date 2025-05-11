@@ -221,7 +221,3 @@ go test ./calculator ./handlers ./auth
 ```
 
 ---
-
-## Лицензия
-
-MIT LICENSE
