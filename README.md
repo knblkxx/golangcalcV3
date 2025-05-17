@@ -25,7 +25,7 @@
 1. **Клонировать репозиторий**:
 
    ```bash
-   git clone https://github.com/knblkxx/golangcalcV3https://github.com/knblkxx/golangcalcV3.git
+   git clone https://github.com/knblkxx/golangcalcV3.git
    cd golangcalcV3
    ```
 
