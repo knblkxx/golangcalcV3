@@ -25,8 +25,8 @@
 1. **Клонировать репозиторий**:
 
    ```bash
-   git clone https://github.com/maxpawgdbs/yandex-go.git
-   cd yandex-go
+   git clone https://github.com/knblkxx/golangcalcV3https://github.com/knblkxx/golangcalcV3.git
+   cd golangcalcV3
    ```
 
 2. **Установить зависимости**:
